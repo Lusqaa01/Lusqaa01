@@ -11,7 +11,6 @@
 <div style="display: inline_block"><br/>
   <img align = "center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align = "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align = "center" alt="VBA" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://www.svgrepo.com/svg/374159/vba)">
 </div> <br/>
 
 Estou cursando Análise e Desenvolvimento de Sistemas, estou no 2º período do curso. Fazendo cursos por fora de Java, para me aperfeiçoar mais.
